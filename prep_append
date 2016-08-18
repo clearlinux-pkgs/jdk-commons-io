@@ -1,0 +1,2 @@
+python3 /usr/share/java-utils/mvn_file.py  : commons-io apache-commons-io
+python3 /usr/share/java-utils/mvn_alias.py : org.apache.commons:
